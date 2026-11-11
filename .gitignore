@@ -1,0 +1,9 @@
+.idea
+.vscode
+.ipynb_checkpoints
+__pycache__
+cmake-build-*
+/build
+/build-cpu
+/models
+*.ncu-rep
